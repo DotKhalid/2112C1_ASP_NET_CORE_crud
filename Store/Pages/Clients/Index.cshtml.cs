@@ -29,7 +29,7 @@ namespace Store.Pages.Clients
                             while (reader.Read())
                             {
                                 ClientInfo clientInfo = new ClientInfo();
-                                clientInfo.id = reader.GetInt32(0);
+                                clientInfo.id ="" + reader.GetInt32(0);
                                 clientInfo.Name = reader.GetString(1);
                                 clientInfo.Email = reader.GetString(2);
                                 clientInfo.Phone = reader.GetString(3);
@@ -51,7 +51,7 @@ namespace Store.Pages.Clients
 
     public class ClientInfo
     {
-        public int id;
+        public string id;
         public string Name;
         public string Email;
         public string Phone;

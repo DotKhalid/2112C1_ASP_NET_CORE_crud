@@ -47,3 +47,4 @@ C:\Users\khalid\source\repos\Store\Store\bin\Debug\net5.0\runtimes\win\lib\netco
 C:\Users\khalid\source\repos\Store\Store\obj\Debug\net5.0\Razor\Pages\Clients\Index.cshtml.g.cs
 C:\Users\khalid\source\repos\Store\Store\obj\Debug\net5.0\Razor\Pages\Clients\Create.cshtml.g.cs
 C:\Users\khalid\source\repos\Store\Store\obj\Debug\net5.0\Razor\Pages\Clients\Edit.cshtml.g.cs
+C:\Users\khalid\source\repos\Store\Store\obj\Debug\net5.0\Razor\Pages\Clients\Delete.cshtml.g.cs
